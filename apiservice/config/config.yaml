@@ -1,0 +1,9 @@
+REFRESH_SECRET: mcmvmkmsdnfsdmfdsjf
+ACCESS_SECRET: jdnfksdmfksd
+
+#Database config:
+DB_USER: vinhnt
+DB_PASSWORD: postgres
+DB_DBNAME: questions_api
+DB_PORT: "5432"
+DB_HOST: "127.0.0.1"
